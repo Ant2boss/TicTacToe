@@ -1,5 +1,6 @@
 **[TicTacToe]**
 
+
 > W, A, S, D: Služe za pomicanje po izbornicima i po Križić Kružić polju
 > [Space]: služi za potvrdu odabira
 
@@ -8,5 +9,6 @@
 
     
  **05.11.2020 / C# / Console**
+ 
  *Dr. Time*
 	
